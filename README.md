@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Oracle APEX](https://img.shields.io/badge/-%20Oracle%20Apex-blue?style=for-the-badge&logo=Oracle)
 </br></br></br></br>
