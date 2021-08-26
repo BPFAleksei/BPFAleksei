@@ -23,3 +23,9 @@ You can click the Preview link to take a look at your changes.
 ![Terraform](https://img.shields.io/badge/-%20Terraform-black?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 
 </br></br></br></br>
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPFAleksei&langs_count=10&theme=tokyonight&layout=compact" alt="BPFAleksei :: Top Langs" /></p>
