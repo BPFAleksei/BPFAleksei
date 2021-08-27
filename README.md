@@ -16,12 +16,16 @@ You can click the Preview link to take a look at your changes.
 ### I have experience in-</br>
 ![Oracle APEX](https://img.shields.io/badge/-%20Oracle%20Apex-black?style=for-the-badge&logo=Oracle)
 ![Java](https://img.shields.io/badge/-%20Java-black?style=for-the-badge&logo=Java&logoColor=orange)
+![Html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5)
 
 ### Some Tecnologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+
 
 ### Tecnologies that I'm currently learning-</br>
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
