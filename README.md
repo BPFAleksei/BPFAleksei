@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPFAleksei&langs_count=10&theme=tokyonight&layout=compact" alt="BPFAleksei :: Top Langs" /></p>
 
 
-
-[instagram]: https://www.instagram.com/bpfaleksei
-[linkedin]: https://www.linkedin.com/in/bryan-aleksei-e-3249a4a2
+### Contact with me 📝
+ <a href="https://www.linkedin.com/in/bryan-aleksei-e-3249a4a2"> <img align="center"  width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+ </a>
+ <a href="https://www.instagram.com/bpfaleksei"> <img align="center"  width="35px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />
+ </a>
