@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### I have experience in-</br>
-![Oracle APEX](https://img.shields.io/badge/-%20Oracle%20Apex-black?style=for-the-badge&logo=Oracle)
+
 ![Java](https://img.shields.io/badge/-%20Java-black?style=for-the-badge&logo=Java&logoColor=orange)
+![Oracle APEX](https://img.shields.io/badge/-%20Oracle%20Apex-black?style=for-the-badge&logo=Oracle)
+![PLSQL](https://img.shields.io/badge/-PLSQL-black?style=for-the-badge&logo=Oracle)
 ![Html](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5)
 
 ### Some Tecnologies I have worked with-</br>
@@ -23,9 +25,12 @@ You can click the Preview link to take a look at your changes.
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![Springboot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=Spring%20Boot)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=for-the-badge&logo=Hibernate)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![C# .NET](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=.NET)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+
 
 
 ### Tecnologies that I'm currently learning-</br>
