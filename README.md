@@ -1,7 +1,12 @@
 ## About Me
-Hi, I’m Aleksei Escobar, I'm Information Systems Engineer with a Master's Degree in Systems Management. 
-I currently work as an analyst and developer, I have experience in Full Stack development with Java, Oracle Application Express and Oracle Databases. 
-I am currently studying DevOps and Cloud technologies.
+Hi, I’m Aleksei Escobar, I'm From Guatemala.
+
+## I'm Information Systems Engineer with a Master's Degree in Systems Management
+
+- 👨‍💻 I’m currently working as an analyst and full stack developer in technologies like Java, Python, Oracle Apex.
+- 📚 I’m currently learning everything about DevOps and Cloud technologies.
+- 💪🏼 Future Goals: Working in DevOps and Cloud.
+- ⚡ Hobbies: I love to play bass and drums.
 
 <!---
 BPFAleksei/BPFAleksei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +34,8 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPFAleksei&langs_count=10&theme=tokyonight&layout=compact" alt="BPFAleksei :: Top Langs" /></p>
+
+
+
+[instagram]: https://www.instagram.com/bpfaleksei
+[linkedin]: https://www.linkedin.com/in/bryan-aleksei-e-3249a4a2
