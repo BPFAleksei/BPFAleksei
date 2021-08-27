@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### Tecnologies that I'm currently learning-</br>
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![Terraform](https://img.shields.io/badge/-%20Terraform-black?style=for-the-badge&logo=Terraform&logoColor=cyan)
-
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 </br></br></br></br>
 
 <h2 align="center">Github stats :bar_chart:</h2>
