@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![Springboot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=Spring%20Boot)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Tecnologies that I'm currently learning-</br>
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![Terraform](https://img.shields.io/badge/-%20Terraform-black?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
+![Terraform](https://img.shields.io/badge/-%20Terraform-black?style=for-the-badge&logo=Terraform&logoColor=cyan)
 
 </br></br></br></br>
 
